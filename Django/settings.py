@@ -25,7 +25,7 @@ SECRET_KEY = 'ael!j)u93k6rsy^yof(k2!-i6kem^n_7if1zfsn0=g+7=$af#0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['secret-everglades-62752.herokuapp.com','127.0.0.1:8000']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
